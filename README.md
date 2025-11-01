@@ -1,5 +1,5 @@
 ## Nama Anggota Kelompok 7:
-1. Zahrah Nabilah (G1A025019)
+1. Zahrah Nabila (G1A025019)
 2. Athiya Rahma Aulia (G1A025031)
 3. Ariqah Naurah (G1A025039)
 ---
