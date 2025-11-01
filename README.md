@@ -4,7 +4,7 @@
 3. Ariqah Naurah (G1A025039)
 ---
 
-# Overview Sistem
+## Overview Sistem
 Proyek ini merupakan simulasi sistem perpustakaan digital berbasis konsol menggunakan bahasa Java. Sistem ini mensimulasikan penataan buku dalam bentuk peta ruang (array 2D), di mana setiap buku memiliki posisi tertentu pada rak digital.
 Pengguna dapat:
 * Melihat denah buku dalam rak (peta 2D),
